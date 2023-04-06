@@ -61,6 +61,6 @@ The given IPython Notebook can be either downloaded to be run locally on Jupyter
 
 📜 Credits
 
-Project done by Sneha Raikar
+Project done by Sachin Yallapurkar
 
 Verified by Almabetter
